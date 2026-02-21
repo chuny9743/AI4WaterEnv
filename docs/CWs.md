@@ -1,0 +1,36 @@
+# CWs
+
+**Total Papers:** 17
+
+<details>
+<summary><b>Predictive Modeling (14)</b></summary>
+
+| Title | Authors | Methods | Journal | Paper |
+|-------|---------|---------|---------|-------|
+| `2025` 🟣 ML+DL<br>[Prediction of total phosphorus removal in hybrid constructed wetlands: a machine learning approach for rice mill wastewater treatment](https://onlinelibrary.wiley.com/doi/10.1002/wer.70085) | Suresh Kumar, Naveen Chand, Vikramaditya Sangwan, Surinder Deswal | MLR / ANN / SVM / RF | Water Environment Research | [Paper](https://onlinelibrary.wiley.com/doi/10.1002/wer.70085) |
+| `2025` 🔵 DL<br>[Leveraging Fine-Scale Variation and Heterogeneity of the Wetland Soil Microbiome to Predict Nutrient Flux on the Landscape](https://link.springer.com/article/10.1007/s00248-025-02516-1) | N. Reed Alexander, Robert S. Brown, Shrijana Duwadi, Spencer G. Womble, David W. Ludwig, Kylie C. Moe, Justin N. Murdock, Joshua L. Phillips, Allison M. Veach & Donald M. Walker | - | Microbial Ecology | [Paper](https://link.springer.com/article/10.1007/s00248-025-02516-1) |
+| `2024` 🟣 ML+DL<br>[Machine Learning Application for Nutrient Removal Rate Coefficient Analyses in Horizontal Flow Constructed Wetlands](https://pubs.acs.org/doi/abs/10.1021/acsestwater.4c00121) | Saurabh SinghAbhishek SotiNiha Mohan KulshreshthaAkshat SamariaUrmila BrighuAkhilendra Bhushan Gupta*Achintya N. Bezbaruah* | SVR / RF / ANN | ACS ES&T Water | [Paper](https://pubs.acs.org/doi/abs/10.1021/acsestwater.4c00121) |
+| `2024` 🟢 ML<br>[New Perspective for the Prediction of Pollutant Removal Efficiency in Constructed Wetlands: Using a Genetic Algorithm-Assisted Machine Learning Model](https://pubs.acs.org/doi/10.1021/acsestwater.4c00635) | Shu-Zhe ZhangHong Jiang* | RF | ACS ES&T Water | [Paper](https://pubs.acs.org/doi/10.1021/acsestwater.4c00635) |
+| `2024` 🟣 ML+DL<br>[A Futuristic Approach to Subsurface-Constructed Wetland Design for the South-East Asian Region Using Machine Learning](https://pubs.acs.org/doi/10.1021/acsestwater.4c00346) | Saurabh Singh*Gourav SutharNiha Mohan KulshreshthaUrmila BrighuAchintya N BezbaruahAkhilendra Bhushan Gupta* | MLR / XGBoost / RF / SVR / ANN | ACS ES&T Water | [Paper](https://pubs.acs.org/doi/10.1021/acsestwater.4c00346) |
+| `2024` 🟢 ML<br>[Predicting wetland soil properties using machine learning, geophysics, and soil measurement data](https://link.springer.com/article/10.1007/s11368-024-03801-1) | Dejene L. Driba, Efemena D. Emmanuel & Kennedy O. Doro | XGBoost | Journal of Soils and Sediments | [Paper](https://link.springer.com/article/10.1007/s11368-024-03801-1) |
+| `2023` 🟢 ML<br>[Quantitative prediction of the hydraulic performance of free water surface constructed wetlands by integrating numerical simulation and machine learning](https://www.sciencedirect.com/science/article/abs/pii/S0301479723005339) | Changqiang Guo, Di Wan , Yalong Li , Qing Zhu , Yufeng Luo , Wenbing Luo , Yuanlai Cui | RF / MLP / SVR | Journal of Environmental Management | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0301479723005339) |
+| `2023` 🔵 DL<br>[Deep learning-based prediction of effluent quality of a constructed wetland](https://www.sciencedirect.com/science/article/pii/S2666498422000631) | Bowen Yang , Zijie Xiao , Qingjie Meng , Yuan Yuan , Wenqian Wang , Haoyu Wang , Yongmei Wang , Xiaochi Feng | LSTM / CNN / GRU | Environmental Science and Ecotechnology | [Paper](https://www.sciencedirect.com/science/article/pii/S2666498422000631) |
+| `2023` 🟣 ML+DL<br>[Deep learning-based prediction of effluent quality of a constructed wetland](https://www.sciencedirect.com/science/article/pii/S2666498422000631) | Bowen Yang , Zijie Xiao , Qingjie Meng , Yuan Yuan , Wenqian Wang , Haoyu Wang , Yongmei Wang , Xiaochi Feng | LR / BPNN / LSTM | Environmental Science and Ecotechnology | [Paper](https://www.sciencedirect.com/science/article/pii/S2666498422000631) |
+| `2022` 🟢 ML<br>[Machine learning exhibited excellent advantages in the performance simulation and prediction of free water surface constructed wetlands](https://www.sciencedirect.com/science/article/abs/pii/S0301479722002675) | Changqiang Guo, Yuanlai Cui | - | Journal of Environmental Management | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0301479722002675) |
+| `2022` 🔵 DL<br>[Simulating and predicting the performance of a horizontal subsurface flow constructed wetland using a fully connected neural network](https://www.sciencedirect.com/science/article/abs/pii/S0959652622045322) | P Li, T Zheng, L Li, X Lv, WJ Wu, Z Shi, X Zhou, G Zhang, Y Ma, J Liu | FCNN | Journal of Cleaner Production | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0959652622045322) |
+| `2022` 🟢 ML<br>[Developing a new approach for design support of subsurface constructed wetland using machine learning algorithms](https://www.sciencedirect.com/science/article/abs/pii/S0301479721019307) | Xuan Cuong Nguyen, Thi Thanh Huyen Nguyen , Quyet V. Le , Phuoc Cuong Le , Arun Lal Srivastav , Quoc Bao Pham , Phuong Minh Nguyen , D. Duong La, Eldon R. Rene , H. Hao Ngo , S. Woong Chang , D. Duc Nguyen | RF / SVM | Journal of Environmental Management | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0301479721019307) |
+| `2022` 🟢 ML<br>[Performance prediction of horizontal flow constructed wetlands by employing machine learning](https://www.sciencedirect.com/science/article/abs/pii/S2214714422007085) | Saurabh Singh , Niha Mohan Kulshreshtha , Shubham Goyal , Urmila Brighu , Achintya N. Bezbaruah , Akhilendra Bhushan Gupta | SVR | Journal of Water Process Engineering | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S2214714422007085) |
+| `2021` 🟢 ML<br>[Nitrogen removal in subsurface constructed wetland: Assessment of the influence and prediction by data mining and machine learning](https://www.sciencedirect.com/science/article/abs/pii/S2352186421003606) | Xuan Cuong Nguyen , Quang Viet Ly , Jianxin Li , Hyokwan Bae , Xuan-Thanh Bui ,Thi Thanh Huyen Nguyen , Quoc Ba Tran , Thi-Dieu-Hien Vo , Long D. Nghiem | RF / SVM / KNN | Environmental Technology & Innovation | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S2352186421003606) |
+
+</details>
+
+<details>
+<summary><b>Intelligent Control (2)</b></summary>
+
+| Title | Authors | Methods | Journal | Paper |
+|-------|---------|---------|---------|-------|
+| `2025` 🟢 ML<br>[Artificial Intelligence for Constructed Wetlands: Toward Intelligent, Adaptive, and Autonomous Treatment Systems](https://www.ajmrd.com/wp-content/uploads/2025/11/A7110112.pdf) | Mohab Amin Kamal | - | American Journal of Multidisciplinary Research & Development (AJMRD) | [Paper](https://www.ajmrd.com/wp-content/uploads/2025/11/A7110112.pdf) |
+| `2025`<br>[Intelligent Analysis and Information Intelligent Control System for Online Monitoring Data of Water Ecological Wetland Landscape Environment](https://www.pjoespeai.com/pdf-210115-132496?filename=Intelligent%20Analysis%20and.pdf) | Zhixian Li, Jing Li, Feng Han, Shui Ai*, Zhanghua Li | - | Polish Journal ofEnvironmental Studies: Politics, Economics and Industry | [Paper](https://www.pjoespeai.com/pdf-210115-132496?filename=Intelligent%20Analysis%20and.pdf) |
+
+</details>
+
