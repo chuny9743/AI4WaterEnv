@@ -21,8 +21,8 @@
 
 <p align="center">
 <sup>*</sup> Corresponding authors: 
-Lingwei Kong (konglingwei@westlake.edu.cn); 
-Huan Wang (wanghuan@westlake.edu.cn)
+Huan Wang (wanghuan@westlake.edu.cn); 
+Lingwei Kong (konglingwei@westlake.edu.cn)
 </p>
 
 📌 This repository accompanies our survey paper:
@@ -326,4 +326,5 @@ If you find this repository useful, please cite:
   title={A Survey of AI for Water Environmental Systems},
   author={Yang, Chun and Xu, Simin and Guo, Xihui and Zhi, Wei and Kong, Lingwei and Li, Ling and Wang, Huan},
   year={2026}
+
 }
