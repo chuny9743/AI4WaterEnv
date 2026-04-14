@@ -6,7 +6,7 @@
 <a href="https://simmy-x.github.io/">Simin Xu</a><sup>1</sup>, 
 <a href="https://cokeshao.github.io/">Kele Shao</a><sup>1,3,4</sup>, 
 <a href="https://eer.lab.westlake.edu.cn/%e4%ba%ba%e5%91%98%e4%bf%a1%e6%81%af-%e6%95%99%e5%b7%a5-%e9%83%ad%e8%a5%bf%e8%be%89/">Xihui Guo</a><sup>1</sup>, 
-<a href="https://www.yicode.org.cn/people/zhi-wei/">Wei Zhi</a><sup>2</sup>, 
+<a href="https://github.com/WeiZhiWater">Wei Zhi</a><sup>2</sup>, 
 <a href="https://eer.lab.westlake.edu.cn/%e4%ba%ba%e5%91%98%e4%bf%a1%e6%81%af-%e6%95%99%e5%b7%a5-%e5%ad%94%e4%bb%a4%e4%b8%ba-2/">Lingwei Kong</a><sup>1*</sup>, 
 <a href="https://eer.lab.westlake.edu.cn/%e4%ba%ba%e5%91%98%e4%bf%a1%e6%81%af-%e6%95%99%e5%b7%a5-%e6%9d%8e%e5%87%8c/">Ling Li</a><sup>1</sup>, 
 <a href="https://huanwang.tech/">Huan Wang</a><sup>1*</sup>
